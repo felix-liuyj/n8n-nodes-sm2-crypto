@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-sm2-crypto",
-  "version": "1.0.13",
+  "version": "1.0.15",
   "description": "SM2 encryption and decryption node for n8n",
   "keywords": [
     "n8n-community-node-package",
@@ -59,6 +59,6 @@
     "n8n-workflow": "*"
   },
   "dependencies": {
-    "sm-crypto": "^0.3.13"
+    "sm-crypto": "^0.5.8"
   }
 }
